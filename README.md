@@ -2,7 +2,7 @@
 command promt.wish linux are madder.
 
  //identify.js -command.ex-edex ui
- //fausto.py cage.upfront --connect.vpn.seervers -lite
+ //fausto.py cage.upfront --connect.vpn.servers -lite
  
  active {assign
 
